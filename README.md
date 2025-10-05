@@ -4,7 +4,7 @@
 
 ## Education
 <p>▶Bsc Computer Science<br>2018-2021</p>
-<p>▶Msc Data Analytics in Business<br>2015-2027</p>
+<p>▶Msc Data Analytics in Business<br>2025-2027</p>
 
 ## Technical Skills  
 <p>▶SQL<br>▶Python<br>▶Advanced Excel<br>▶PowerBi<br>▶Tableau</p>
