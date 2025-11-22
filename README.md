@@ -4,8 +4,8 @@
 <p>I have been working in the field of data analytics for over 7 years. I have worked as a Data analyst & Data Manager for NGO's in Malawi and also worked as an Advanced AI Data Trainer.</p>  
 
 ## Education
-<p>▶Bsc Computer Science<br>2018-2021</p>
-<p>▶Msc Data Analytics in Business<br>2025-2027</p>
+<p>▶Bsc Computer Science (DMI University, Lilongwe - Malawi)<br>2018-2021</p>
+<p>▶Msc Data Analytics in Business (Seattle Pacific University, Washington - USA)<br>2025-2027</p>
 
 <img align="right" src="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="700">
 
