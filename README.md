@@ -7,14 +7,15 @@
 <p>▶Bsc Computer Science (DMI University, Lilongwe - Malawi)<br>2018-2021</p>
 <p>▶Msc Data Analytics in Business (Seattle Pacific University, Washington - USA)<br>2025-2027</p>
 
-<img align="right" src="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="700">
+<img align="right" src="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="440" height="700">
 
 ## Technical Skills  
 <p>▶SQL<br>▶Python<br>▶Advanced Excel<br>▶PowerBi<br>▶Tableau</p>
 
 ## Portfolio
 [Staff Health Management System](https://github.com/PhilipKatema/Health_Management_System)<br>
-[Malawi Trade Portfolio](https://github.com/PhilipKatema/Malawi_Trade_Profile)
+[Malawi Trade Portfolio](https://github.com/PhilipKatema/Malawi_Trade_Profile)<br>
+[Published Work: A Simplified Approach for Melanoma Skin Disease Identification](https://ieeexplore.ieee.org/document/9526511)
 
 ## Contact me
 Phillipckatema@gmail.com<br>
