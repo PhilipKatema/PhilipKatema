@@ -13,6 +13,7 @@
 <p>▶SQL<br>▶Python<br>▶Advanced Excel<br>▶PowerBi<br>▶Tableau</p>
 
 ## Portfolio
+[Malawi Agricultural Trade Intelligence](https://github.com/PhilipKatema/Malawi-Trade-Intelligence)<br>
 [Staff Health Management System](https://github.com/PhilipKatema/Health_Management_System)<br>
 [Malawi Trade Portfolio](https://github.com/PhilipKatema/Malawi_Trade_Profile)<br>
 [Published Work: A Simplified Approach for Melanoma Skin Disease Identification](https://ieeexplore.ieee.org/document/9526511)
