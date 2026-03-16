@@ -13,10 +13,11 @@
 <p>▶SQL<br>▶Python<br>▶Advanced Excel<br>▶PowerBi<br>▶Tableau</p>
 
 ## Portfolio
-[Malawi Agricultural Trade Intelligence - KNIME Analytics](https://github.com/PhilipKatema/Malawi-Trade-Intelligence)<br>
-[Staff Health Management System - Access](https://github.com/PhilipKatema/Health_Management_System)<br>
-[Malawi Trade Portfolio - PowerBi](https://github.com/PhilipKatema/Malawi_Trade_Profile)<br>
-[Published Work: A Simplified Approach for Melanoma Skin Disease Identification](https://ieeexplore.ieee.org/document/9526511)
+[1. Fake News Detection - Text Mining with Orange](https://github.com/PhilipKatema/Fake_News_Detection)<br>
+[2. Malawi Agricultural Trade Intelligence - KNIME Analytics](https://github.com/PhilipKatema/Malawi-Trade-Intelligence)<br>
+[3. Staff Health Management System - Access](https://github.com/PhilipKatema/Health_Management_System)<br>
+[4. Malawi Trade Portfolio - PowerBi](https://github.com/PhilipKatema/Malawi_Trade_Profile)<br>
+[5. Published Work: A Simplified Approach for Melanoma Skin Disease Identification](https://ieeexplore.ieee.org/document/9526511)
 
 ## Contact me
 Phillipckatema@gmail.com<br>
